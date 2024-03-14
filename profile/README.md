@@ -1,6 +1,6 @@
 # Clouds88
 
-Our organization specializes in providing top-notch services for SEO, web application, and game development. With a team of experienced professionals, we are dedicated to optimizing your online presence and creating high-quality digital experiences.
+Our organization specializes in providing top-notch services for **SEO**, **web application**, and **game development**. With a team of experienced professionals, we are dedicated to optimizing your online presence and creating high-quality digital experiences.
 
 For SEO, we offer comprehensive strategies to improve your website's visibility and drive organic traffic. Our expertise includes keyword research, on-page optimization, link building, and content creation to help you achieve higher rankings on search engine results pages.
 
